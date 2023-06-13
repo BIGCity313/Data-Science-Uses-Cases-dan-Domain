@@ -78,22 +78,27 @@ Berikut adalah beberapa contoh penggunaan data science dalam berbagai domain ter
 
 **Domain E-commerce**: Pengumpulan data pelanggan, data transaksi, dan ulasan produk untuk melakukan analisis perilaku pelanggan, personalisasi rekomendasi, dan pengembangan model prediksi harga.
 Domain Kesehatan: Pengumpulan data pasien, data medis, dan data sensor untuk menganalisis tren penyakit, membangun model prediktif untuk diagnosis, dan mengidentifikasi faktor risiko.
-Data Preparation & Cleaning:
+
+**Data Preparation & Cleaning**:
 
 **Domain Perbankan**: Pembersihan dan pengolahan data transaksi keuangan untuk deteksi kecurangan, analisis risiko kredit, dan pelaporan keuangan yang akurat.
 Domain Pemasaran: Pembersihan dan pengolahan data pelanggan untuk segmentasi pelanggan, personalisasi kampanye pemasaran, dan analisis efektivitas strategi pemasaran.
-Data Visualization & Statistics:
+
+**Data Visualization & Statistics**:
 
 **Domain Media Sosial**: Visualisasi data pengguna, jaringan sosial, dan interaksi online untuk memahami tren percakapan, pengaruh influencer, dan analisis sentimen.
 Domain Keuangan: Visualisasi data pasar keuangan, tren harga saham, dan indikator ekonomi untuk mendukung pengambilan keputusan investasi.
-AI Ethics / Bias:
+
+**AI Ethics / Bias**:
 
 **Domain HR dan Rekrutmen**: Analisis data calon karyawan untuk mengurangi bias dalam proses rekrutmen dan penilaian karyawan.
 Domain Kesehatan: Mengidentifikasi bias dalam algoritma prediksi penyakit dan memastikan bahwa rekomendasi pengobatan tidak mengabaikan kelompok minoritas.
-ML Ops:
+
+**ML Ops**:
 
 **Domain Teknologi dan Layanan Online**: Penggunaan alat dan teknik pengelolaan siklus hidup model (model lifecycle management) untuk melatih, menguji, menerapkan, dan memantau model pembelajaran mesin secara efisien.
-Domain Manufaktur: Menggunakan ML Ops untuk mengintegrasikan model prediktif ke dalam aliran produksi, mengoptimalkan kinerja mesin, dan menerapkan pemeliharaan prediktif.
+
+**Domain Manufaktur**: Menggunakan ML Ops untuk mengintegrasikan model prediktif ke dalam aliran produksi, mengoptimalkan kinerja mesin, dan menerapkan pemeliharaan prediktif.
 Penggunaan data science dalam berbagai domain ini memberikan gambaran tentang beragam aplikasi dan manfaatnya dalam mengatasi tantangan bisnis, meningkatkan pengambilan keputusan, dan meningkatkan efisiensi operasional. Namun, setiap kasus penggunaan harus mempertimbangkan konteks etika, transparansi, dan privasi data.
 
 
